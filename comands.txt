@@ -25,3 +25,12 @@ A >> files that added to the staging area
 git commit -m "your message...(my first commit..)"
 
 git clone <repository url> repository from git hub
+.
+.
+.
+
+creating new baranch in github......................>>
+git branch  <branch name>
+git switch <branch name to switch>
+
+(for cheching baranch)
