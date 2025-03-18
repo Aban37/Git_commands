@@ -33,4 +33,3 @@ creating new baranch in github......................>>
 git branch  <branch name>
 git switch <branch name to switch>
 
-(for cheching baranch)
